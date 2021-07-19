@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Todo-App-using-React/static/css/main.9d57df93.chunk.css",
+    "main.js": "/Todo-App-using-React/static/js/main.6ba10bf9.chunk.js",
+    "main.js.map": "/Todo-App-using-React/static/js/main.6ba10bf9.chunk.js.map",
+    "runtime-main.js": "/Todo-App-using-React/static/js/runtime-main.c3bca77c.js",
+    "runtime-main.js.map": "/Todo-App-using-React/static/js/runtime-main.c3bca77c.js.map",
+    "static/js/2.ae90aa2d.chunk.js": "/Todo-App-using-React/static/js/2.ae90aa2d.chunk.js",
+    "static/js/2.ae90aa2d.chunk.js.map": "/Todo-App-using-React/static/js/2.ae90aa2d.chunk.js.map",
+    "static/js/3.bc89dd49.chunk.js": "/Todo-App-using-React/static/js/3.bc89dd49.chunk.js",
+    "static/js/3.bc89dd49.chunk.js.map": "/Todo-App-using-React/static/js/3.bc89dd49.chunk.js.map",
+    "index.html": "/Todo-App-using-React/index.html",
+    "static/css/main.9d57df93.chunk.css.map": "/Todo-App-using-React/static/css/main.9d57df93.chunk.css.map",
+    "static/js/2.ae90aa2d.chunk.js.LICENSE.txt": "/Todo-App-using-React/static/js/2.ae90aa2d.chunk.js.LICENSE.txt",
+    "static/media/listItem.css": "/Todo-App-using-React/static/media/home.57c36fbc.jpg",
+    "static/media/App.css": "/Todo-App-using-React/static/media/login.141036e7.jpg",
+    "static/media/logo.6ce24c58.svg": "/Todo-App-using-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3bca77c.js",
+    "static/js/2.ae90aa2d.chunk.js",
+    "static/css/main.9d57df93.chunk.css",
+    "static/js/main.6ba10bf9.chunk.js"
+  ]
+}
